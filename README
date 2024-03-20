@@ -1,3 +1,5 @@
+Temporary layer for reproducing u-boot mender on a pi 5. See https://github.com/swiftbot-labs/meta-mender-community
+
 This README file contains information on the contents of the meta-uboot-rpi5 layer.
 
 Please see the corresponding sections below for details.
